@@ -64,3 +64,5 @@ pip-delete-this-directory.txt
 
 # Pyre type checker
 .pyre/
+
+bin/
